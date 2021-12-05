@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585480932462",
+    "project_id": "khidza",
+    "storage_bucket": "khidza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585480932462:android:9e68c9b90d53af779e6a7f",
+        "android_client_info": {
+          "package_name": "com.avcompany.khidza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585480932462-fiaa1q6iuqv065padr3lpgs0550kjrij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0a7oTI7vdwOeFdH_8gkOFa0RluSFVQSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585480932462-fiaa1q6iuqv065padr3lpgs0550kjrij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
